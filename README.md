@@ -1,6 +1,7 @@
 ### Hi there I am Yosef 👋
 www.linkedin.com/in/yosef-y-634bb1252
-[!LinkedIn]www.linkedin.com/in/yosef-y-634bb1252
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin](www.linkedin.com/in/yosef-y-634bb1252)
 <!--
 **devopsql/devopsql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
