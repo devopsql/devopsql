@@ -1,5 +1,5 @@
 ### Hi there I am Yosef 👋
-www.linkedin.com/in/yosef-y-634bb1252
+
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin](www.linkedin.com/in/yosef-y-634bb1252)
 <!--
