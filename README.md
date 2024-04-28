@@ -1,5 +1,6 @@
 ### Hi there I am Yosef 👋
 www.linkedin.com/in/yosef-y-634bb1252
+https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
 <!--
 **devopsql/devopsql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
