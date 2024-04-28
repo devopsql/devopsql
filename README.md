@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 **Email:** devops.pysql@gmail.com  
 
 ## PROFESSIONAL SUMMARY:
-
-Solution-oriented and problem solver with a strong motivation to learning and implementing new concepts. Highly interested in DevOps and application development. Skilled in communication and collaboration.
-
 ## Back-end Engineer
+Solution-oriented and problem solver with a strong motivation to learning and implementing new concepts. 
+Highly interested in DevOps and application development. Skilled in communication and collaboration.
+
+## Education
+- Massachusettes Institute of Technology
+- Nucamp DevOps with Python Sql
 
 - **Languages:** Python, SQL, HTML
 - **Frameworks:** Flask, Django
@@ -54,7 +57,7 @@ Solution-oriented and problem solver with a strong motivation to learning and im
 - Made quick assessments to implement appropriate treatment.
 - Collaborated effectively with a diverse team and utilized closed-loop communication.
 
-## Nucamp
+
 
 - Application development with the goal of representing a hospital patient census.
 - Created ERD to sketch the project.
